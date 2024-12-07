@@ -252,7 +252,7 @@ G2L["19"]["BackgroundColor3"] = Color3.fromRGB(15, 15, 15);
 G2L["19"]["TextColor3"] = Color3.fromRGB(252, 138, 8);
 G2L["19"]["Size"] = UDim2.new(0, 86, 0, 27);
 G2L["19"]["Name"] = [[Execute_Button]];
-G2L["19"]["Text"] = [[Execute ]];
+G2L["19"]["Text"] = [[ Execute ]];
 G2L["19"]["Font"] = Enum.Font.GothamBold;
 G2L["19"]["Position"] = UDim2.new(0.008917197585105896, 0, 0.8803418874740601, 0);
 
@@ -343,7 +343,7 @@ G2L["21"]["BackgroundColor3"] = Color3.fromRGB(15, 15, 15);
 G2L["21"]["TextColor3"] = Color3.fromRGB(252, 138, 8);
 G2L["21"]["Size"] = UDim2.new(0, 90, 0, 27);
 G2L["21"]["Name"] = [[Invite_Button]];
-G2L["21"]["Text"] = [[Support ]];
+G2L["21"]["Text"] = [[ Support ]];
 G2L["21"]["Font"] = Enum.Font.GothamBold;
 G2L["21"]["Position"] = UDim2.new(0.6981757879257202, 0, 0.23000000417232513, 0);
 
