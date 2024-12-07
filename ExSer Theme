@@ -37,7 +37,7 @@ G2L["4"]["Name"] = [[Most_Top_Bar]];
 -- StarterGui.V6.Main.Top_Bar
 G2L["5"] = Instance.new("Frame", G2L["2"]);
 G2L["5"]["BorderSizePixel"] = 0;
-G2L["5"]["BackgroundColor3"] = Color3.fromRGB(19, 19, 19);
+G2L["5"]["BackgroundColor3"] = Color3.fromRGB(15, 15, 15);
 G2L["5"]["Size"] = UDim2.new(0, 619, 0, 40);
 G2L["5"]["Position"] = UDim2.new(0, 0, 0.03703703731298447, 0);
 G2L["5"]["Name"] = [[Top_Bar]];
