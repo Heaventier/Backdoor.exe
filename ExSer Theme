@@ -311,14 +311,14 @@ G2L["1e"]["SortOrder"] = Enum.SortOrder.LayoutOrder;
 -- StarterGui.V6.Main.Main_Buttons.Right_Allignment.Scan_Button
 G2L["1f"] = Instance.new("TextButton", G2L["1d"]);
 G2L["1f"]["BorderSizePixel"] = 0;
-G2L["1f"]["TextSize"] = 18;
+G2L["1f"]["TextSize"] = 16;
 G2L["1f"]["TextXAlignment"] = Enum.TextXAlignment.Right;
 G2L["1f"]["BackgroundColor3"] = Color3.fromRGB(15, 15, 15);
 G2L["1f"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["1f"]["Size"] = UDim2.new(0, 72, 0, 27);
 G2L["1f"]["LayoutOrder"] = 10;
 G2L["1f"]["Name"] = [[Scan_Button]];
-G2L["1f"]["Text"] = [[Scan ]];
+G2L["1f"]["Text"] = [[ Scan ]];
 G2L["1f"]["Font"] = Enum.Font.GothamBold;
 G2L["1f"]["Position"] = UDim2.new(0.90625, 0, 0.23000000417232513, 0);
 
