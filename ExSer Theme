@@ -109,16 +109,16 @@ G2L["a"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["a"]["Size"] = UDim2.new(0, 111, 0, 36);
 G2L["a"]["Text"] = [[Unsupported ]];
 G2L["a"]["Name"] = [[Status]];
-G2L["a"]["Font"] = Enum.Font.GothamBold;
+G2L["a"]["Font"] = Enum.Font.Gotham;
 G2L["a"]["BackgroundTransparency"] = 1;
 G2L["a"]["Position"] = UDim2.new(0.6534029245376587, 0, 0.046052634716033936, 0);
 
 -- StarterGui.V6.Main.Top_Bar.Status.Circle
 G2L["b"] = Instance.new("Frame", G2L["a"]);
 G2L["b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
-G2L["b"]["Size"] = UDim2.new(0, 16, 0, 16);
+G2L["b"]["Size"] = UDim2.new(0, 0, 0, 0);
 G2L["b"]["BorderColor3"] = Color3.fromRGB(255, 255, 255);
-G2L["b"]["Position"] = UDim2.new(0.9300000071525574, 0, 0.2702702581882477, 0);
+G2L["b"]["Position"] = UDim2.new(0, -265, 0, 17);
 G2L["b"]["Name"] = [[Circle]];
 
 -- StarterGui.V6.Main.Top_Bar.Status.Circle.UICorner
@@ -128,7 +128,7 @@ G2L["c"]["CornerRadius"] = UDim.new(1, 5);
 -- StarterGui.V6.Main.Top_Bar.Status.Circle.Status_Color
 G2L["d"] = Instance.new("Frame", G2L["b"]);
 G2L["d"]["BackgroundColor3"] = Color3.fromRGB(186, 49, 49);
-G2L["d"]["Size"] = UDim2.new(0, 14, 0, 14);
+G2L["d"]["Size"] = UDim2.new(0, 10, 0, 10);
 G2L["d"]["BorderColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["d"]["Position"] = UDim2.new(0.0625, 0, 0.0625, 0);
 G2L["d"]["Name"] = [[Status_Color]];
@@ -150,7 +150,7 @@ G2L["10"]["Image"] = [[rbxassetid://3926307971]];
 G2L["10"]["ImageRectSize"] = Vector2.new(36, 36);
 G2L["10"]["Size"] = UDim2.new(0, 25, 0, 25);
 G2L["10"]["Name"] = [[R6Button]];
-G2L["10"]["ImageRectOffset"] = Vector2.new(164, 124);
+G2L["10"]["ImageRectOffset"] = Vector2.new(164, 124)
 G2L["10"]["Position"] = UDim2.new(0.9030694961547852, 0, 0.17499999701976776, 0);
 G2L["10"]["BackgroundTransparency"] = 1;
 
@@ -261,6 +261,7 @@ G2L["1a"] = Instance.new("ImageButton", G2L["19"]);
 G2L["1a"]["ZIndex"] = 2;
 G2L["1a"]["Image"] = [[rbxassetid://3926305904]];
 G2L["1a"]["ImageRectSize"] = Vector2.new(36, 36);
+G2L["1a"]["ImageColor3"] = Color3.fromRGB(252, 138, 8);
 G2L["1a"]["Size"] = UDim2.new(0, 25, 0, 25);
 G2L["1a"]["Name"] = [[chevron_right]];
 G2L["1a"]["ImageRectOffset"] = Vector2.new(924, 884);
@@ -353,6 +354,7 @@ G2L["22"]["ZIndex"] = 2;
 G2L["22"]["Image"] = [[rbxassetid://3926305904]];
 G2L["22"]["ImageRectSize"] = Vector2.new(36, 36);
 G2L["22"]["Size"] = UDim2.new(0, 25, 0, 25);
+G2L["22"]["ImageColor3"] = Color3.fromRGB(252, 138, 8);
 G2L["22"]["Name"] = [[link]];
 G2L["22"]["ImageRectOffset"] = Vector2.new(164, 404);
 G2L["22"]["Position"] = UDim2.new(-0.007777772843837738, 0, 0, 0);
