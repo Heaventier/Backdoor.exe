@@ -104,14 +104,14 @@ G2L["9"]["BackgroundTransparency"] = 1;
 -- StarterGui.V6.Main.Top_Bar.Status
 G2L["a"] = Instance.new("TextLabel", G2L["5"]);
 G2L["a"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
-G2L["a"]["TextSize"] = 16;
+G2L["a"]["TextSize"] = 18;
 G2L["a"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["a"]["Size"] = UDim2.new(0, 111, 0, 36);
-G2L["a"]["Text"] = [[Unsupported ]];
+G2L["a"]["Text"] = [[]];
 G2L["a"]["Name"] = [[Status]];
 G2L["a"]["Font"] = Enum.Font.Gotham;
 G2L["a"]["BackgroundTransparency"] = 1;
-G2L["a"]["Position"] = UDim2.new(0.6534029245376587, 0, 0.046052634716033936, 0);
+G2L["a"]["Position"] = UDim2.new(0.6534029245376587, 0, 0, 5);
 
 -- StarterGui.V6.Main.Top_Bar.Status.Circle
 G2L["b"] = Instance.new("Frame", G2L["a"]);
