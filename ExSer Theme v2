@@ -104,21 +104,21 @@ G2L["9"]["BackgroundTransparency"] = 1;
 -- StarterGui.V6.Main.Top_Bar.Status
 G2L["a"] = Instance.new("TextLabel", G2L["5"]);
 G2L["a"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
-G2L["a"]["TextSize"] = 16;
+G2L["a"]["TextSize"] = 18;
 G2L["a"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["a"]["Size"] = UDim2.new(0, 111, 0, 36);
-G2L["a"]["Text"] = [[Unsupported ]];
+G2L["a"]["Text"] = [[Executor | Hub | Output | Admin | Settings | ExLib Docs                                                       ]];
 G2L["a"]["Name"] = [[Status]];
-G2L["a"]["Font"] = Enum.Font.GothamBold;
+G2L["a"]["Font"] = Enum.Font.Gotham;
 G2L["a"]["BackgroundTransparency"] = 1;
-G2L["a"]["Position"] = UDim2.new(0.6534029245376587, 0, 0.046052634716033936, 0);
+G2L["a"]["Position"] = UDim2.new(0.6534029245376587, 0, 0, 5);
 
 -- StarterGui.V6.Main.Top_Bar.Status.Circle
 G2L["b"] = Instance.new("Frame", G2L["a"]);
 G2L["b"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
-G2L["b"]["Size"] = UDim2.new(0, 16, 0, 16);
+G2L["b"]["Size"] = UDim2.new(0, 0, 0, 0);
 G2L["b"]["BorderColor3"] = Color3.fromRGB(255, 255, 255);
-G2L["b"]["Position"] = UDim2.new(0.9300000071525574, 0, 0.2702702581882477, 0);
+G2L["b"]["Position"] = UDim2.new(0, -265, 0, 17);
 G2L["b"]["Name"] = [[Circle]];
 
 -- StarterGui.V6.Main.Top_Bar.Status.Circle.UICorner
@@ -128,7 +128,7 @@ G2L["c"]["CornerRadius"] = UDim.new(1, 5);
 -- StarterGui.V6.Main.Top_Bar.Status.Circle.Status_Color
 G2L["d"] = Instance.new("Frame", G2L["b"]);
 G2L["d"]["BackgroundColor3"] = Color3.fromRGB(186, 49, 49);
-G2L["d"]["Size"] = UDim2.new(0, 14, 0, 14);
+G2L["d"]["Size"] = UDim2.new(0, 10, 0, 10);
 G2L["d"]["BorderColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["d"]["Position"] = UDim2.new(0.0625, 0, 0.0625, 0);
 G2L["d"]["Name"] = [[Status_Color]];
